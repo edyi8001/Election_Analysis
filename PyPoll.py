@@ -106,3 +106,10 @@ election_data.close()
 
 
 
+# County options and county votes.
+county_options = []
+county_votes = {}
+# Track the winning candidate, vote count, and percentage.
+largest_county = ""
+largest_county = 0
+winning_percentage = 0
